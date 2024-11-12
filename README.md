@@ -52,7 +52,7 @@
     <p>For inquiries, please reach us at:</p>
     <ul>
       <li>Email: info@pakirantransport.com</li>
-      <li>Phone: +123-456-7890</li>
+      <li>Phone: 923138485377</li>
     </ul>
   </section>
 
